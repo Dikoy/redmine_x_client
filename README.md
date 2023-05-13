@@ -1,2 +1,3 @@
-# redmine_x_client
-RedmineX Client plugin :: Author: Ondrej Svejkovsky (https://redmine-x.com)
+# RedmineX Client
+
+Simple plugin for client css and js changes
